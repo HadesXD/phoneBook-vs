@@ -1,0 +1,51 @@
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\bin\Debug\Imenik.exe.config
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\bin\Debug\Imenik.exe
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\bin\Debug\Imenik.pdb
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\bin\Debug\EntityFramework.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\bin\Debug\Ljudje.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\bin\Debug\System.Data.SQLite.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\bin\Debug\Ljudje.pdb
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\bin\Debug\Ljudje.dll.config
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\bin\Debug\EntityFramework.xml
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\bin\Debug\System.Data.SQLite.xml
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\bin\Debug\System.Data.SQLite.dll.config
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\obj\Debug\Imenik.csprojResolveAssemblyReference.cache
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\obj\Debug\Imenik.ImenikForm.resources
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\obj\Debug\Imenik.Properties.Resources.resources
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\obj\Debug\Imenik.csproj.GenerateResource.Cache
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\obj\Debug\Imenik.csproj.CoreCompileInputs.cache
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\obj\Debug\Imenik.exe
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\obj\Debug\Imenik.pdb
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\obj\Debug\Imenik.DodajOsebo.resources
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Imenik\Imenik\obj\Debug\Imenik.UrediOsebo.resources
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Imenik\Imenik\obj\Debug\Imenik.IzbrisiOsebo.resources
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\bin\Debug\Imenik.exe.config
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\bin\Debug\Imenik.exe
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\bin\Debug\Imenik.pdb
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\bin\Debug\EntityFramework.dll
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\bin\Debug\Ljudje.dll
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\bin\Debug\System.Data.SQLite.dll
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\bin\Debug\Ljudje.pdb
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\bin\Debug\Ljudje.dll.config
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\bin\Debug\EntityFramework.xml
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\bin\Debug\System.Data.SQLite.xml
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\obj\Debug\Imenik.csprojAssemblyReference.cache
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\obj\Debug\Imenik.DodajOsebo.resources
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\obj\Debug\Imenik.ImenikForm.resources
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\obj\Debug\Imenik.IzbrisiOsebo.resources
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\obj\Debug\Imenik.Properties.Resources.resources
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\obj\Debug\Imenik.UrediOsebo.resources
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\obj\Debug\Imenik.csproj.GenerateResource.cache
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\obj\Debug\Imenik.csproj.CoreCompileInputs.cache
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\obj\Debug\Imenik.csproj.CopyComplete
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\obj\Debug\Imenik.exe
+C:\Users\strop\Downloads\Projects\Imenik\Imenik\obj\Debug\Imenik.pdb

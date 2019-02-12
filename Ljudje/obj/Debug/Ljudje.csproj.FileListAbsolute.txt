@@ -1,0 +1,33 @@
+c:\Users\theph\OneDrive\dokumenti\visual studio 2017\Projects\Imenik\Ljudje\bin\Debug\Ljudje.dll
+c:\Users\theph\OneDrive\dokumenti\visual studio 2017\Projects\Imenik\Ljudje\bin\Debug\Ljudje.pdb
+c:\Users\theph\OneDrive\dokumenti\visual studio 2017\Projects\Imenik\Ljudje\obj\Debug\Ljudje.csprojResolveAssemblyReference.cache
+c:\Users\theph\OneDrive\dokumenti\visual studio 2017\Projects\Imenik\Ljudje\obj\Debug\Ljudje.csproj.CoreCompileInputs.cache
+c:\Users\theph\OneDrive\dokumenti\visual studio 2017\Projects\Imenik\Ljudje\obj\Debug\Ljudje.dll
+c:\Users\theph\OneDrive\dokumenti\visual studio 2017\Projects\Imenik\Ljudje\obj\Debug\Ljudje.pdb
+c:\Users\theph\OneDrive\dokumenti\visual studio 2017\Projects\Imenik\Ljudje\bin\Debug\Ljudje.dll.config
+c:\Users\theph\OneDrive\dokumenti\visual studio 2017\Projects\Imenik\Ljudje\bin\Debug\EntityFramework.dll
+c:\Users\theph\OneDrive\dokumenti\visual studio 2017\Projects\Imenik\Ljudje\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\theph\OneDrive\dokumenti\visual studio 2017\Projects\Imenik\Ljudje\bin\Debug\System.Data.SQLite.dll
+c:\Users\theph\OneDrive\dokumenti\visual studio 2017\Projects\Imenik\Ljudje\bin\Debug\System.Data.SQLite.EF6.dll
+c:\Users\theph\OneDrive\dokumenti\visual studio 2017\Projects\Imenik\Ljudje\bin\Debug\System.Data.SQLite.Linq.dll
+c:\Users\theph\OneDrive\dokumenti\visual studio 2017\Projects\Imenik\Ljudje\bin\Debug\EntityFramework.xml
+c:\Users\theph\OneDrive\dokumenti\visual studio 2017\Projects\Imenik\Ljudje\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\theph\OneDrive\dokumenti\visual studio 2017\Projects\Imenik\Ljudje\bin\Debug\System.Data.SQLite.xml
+c:\Users\theph\OneDrive\dokumenti\visual studio 2017\Projects\Imenik\Ljudje\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\bin\Debug\Ljudje.dll.config
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\bin\Debug\Ljudje.dll
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\bin\Debug\Ljudje.pdb
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\bin\Debug\EntityFramework.dll
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\bin\Debug\System.Data.SQLite.dll
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\bin\Debug\EntityFramework.xml
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\bin\Debug\System.Data.SQLite.xml
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\obj\Debug\Ljudje.csprojAssemblyReference.cache
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\obj\Debug\Ljudje.csproj.CoreCompileInputs.cache
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\obj\Debug\Ljudje.csproj.CopyComplete
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\obj\Debug\Ljudje.dll
+C:\Users\strop\Downloads\Projects\Imenik\Ljudje\obj\Debug\Ljudje.pdb
