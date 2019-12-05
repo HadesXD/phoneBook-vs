@@ -1,5 +1,5 @@
 # Phone Book App - Visual Studio 2015
-A simple WinForms app that I made for High School. You can add people and it stores the information, you can also edit and remove the users.
+A simple WinForms app that I made for my High School subject. You can add people and it stores the information, you can also edit and remove the users.
 
 <ul>
   <li><b>Date:</b> March 2016</li>
